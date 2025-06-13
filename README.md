@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nazar-ponomarenko/nazar-ponomarenko/main/da_image.jpg" alt="Nazar Ponomarenko - Data Analyst" width="100%">
+</p>
+
 <h1>Welcome to my Data World 📊</h1>
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
