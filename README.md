@@ -4,21 +4,23 @@
 
 <h1>Welcome to my Data World 📊</h1>
 
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nazar-ponomarenko-74b773208/" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=linkedin&logoColor=B0B0B0" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/thenazar9" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=B0B0B0" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://t.me/thenazar9" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=telegram&logoColor=B0B0B0" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:nazar.ponomarenko.da@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=gmail&logoColor=B0B0B0" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://public.tableau.com/app/profile/nazar.ponomarenko/vizzes" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=tableau&logoColor=B0B0B0" alt="Tableau Public"/>
+    <img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/>
   </a>
 </p>
 ---
