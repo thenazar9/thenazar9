@@ -8,21 +8,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nazar-ponomarenko-74b773208/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=B0B0B0" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/thenazar9" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-282828?style=for-the-badge&logo=github&logoColor=B0B0B0" alt="GitHub"/>
   </a>
   <a href="https://t.me/thenazar9" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-282828?style=for-the-badge&logo=telegram&logoColor=B0B0B0" alt="Telegram"/>
   </a>
   <a href="mailto:nazar.ponomarenko.da@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-282828?style=for-the-badge&logo=gmail&logoColor=B0B0B0" alt="Gmail"/>
   </a>
   <a href="https://public.tableau.com/app/profile/nazar.ponomarenko/vizzes" target="_blank">
-    <img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/>
+    <img src="https://img.shields.io/badge/Tableau_Public-282828?style=for-the-badge&logo=tableau&logoColor=B0B0B0" alt="Tableau Public"/>
   </a>
 </p>
+
 ---
 
 I'm **Nazar**, a Junior **Data Analyst** with hands-on experience in the complete data analysis lifecycle — from data collection and cleaning to insightful visualizations and actionable recommendations.
@@ -40,24 +41,24 @@ I'm **Nazar**, a Junior **Data Analyst** with hands-on experience in the complet
 
 ### 💻 Tech Stack:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2D3F6C?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=B0B0B0)
+![Pandas](https://img.shields.io/badge/Pandas-282828?style=for-the-badge&logo=pandas&logoColor=B0B0B0)
+![NumPy](https://img.shields.io/badge/NumPy-282828?style=for-the-badge&logo=numpy&logoColor=B0B0B0)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-282828?style=for-the-badge&logo=matplotlib&logoColor=B0B0B0)
+![Seaborn](https://img.shields.io/badge/Seaborn-282828?style=for-the-badge&logo=seaborn&logoColor=B0B0B0)
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-282828?style=for-the-badge&logo=sqlite&logoColor=B0B0B0)
+![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-282828?style=for-the-badge&logo=google-bigquery&logoColor=B0B0B0)
+![MySQL](https://img.shields.io/badge/MySQL-282828?style=for-the-badge&logo=mysql&logoColor=B0B0B0)
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=lookerstudio&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-282828?style=for-the-badge&logo=tableau&logoColor=B0B0B0)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-282828?style=for-the-badge&logo=lookerstudio&logoColor=B0B0B0)
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-282828?style=for-the-badge&logo=jupyter&logoColor=B0B0B0)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-282828?style=for-the-badge&logo=google-sheets&logoColor=B0B0B0)
+![Excel](https://img.shields.io/badge/Excel-282828?style=for-the-badge&logo=microsoft-excel&logoColor=B0B0B0)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-282828?style=for-the-badge&logo=git&logoColor=B0B0B0)
 
 ---
 
