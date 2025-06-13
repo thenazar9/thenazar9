@@ -4,12 +4,23 @@
 
 <h1>Welcome to my Data World 📊</h1>
 
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nazar-ponomarenko-74b773208/)
-[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/thenazar9)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nazar.ponomarenko.da@gmail.com)
-[<img alt="Tableau Public" src="https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" />](https://public.tableau.com/app/profile/nazar.ponomarenko/vizzes)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nazar-ponomarenko-74b773208/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/B0B0B0" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="https://github.com/thenazar9" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/B0B0B0" alt="GitHub" width="30" height="30"/>
+  </a>
+  <a href="https://t.me/thenazar9" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/B0B0B0" alt="Telegram" width="30" height="30"/>
+  </a>
+  <a href="mailto:nazar.ponomarenko.da@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/B0B0B0" alt="Gmail" width="30" height="30"/>
+  </a>
+  <a href="https://public.tableau.com/app/profile/nazar.ponomarenko/vizzes" target="_blank">
+    <img src="https://cdn.simpleicons.org/tableau/B0B0B0" alt="Tableau Public" width="30" height="30"/>
+  </a>
+</p>
 ---
 
 I'm **Nazar**, a Junior **Data Analyst** with hands-on experience in the complete data analysis lifecycle — from data collection and cleaning to insightful visualizations and actionable recommendations.
