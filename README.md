@@ -6,19 +6,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nazar-ponomarenko-74b773208/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/lightgray" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=linkedin&logoColor=B0B0B0" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/thenazar9" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/lightgray" alt="GitHub" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=B0B0B0" alt="GitHub"/>
   </a>
   <a href="https://t.me/thenazar9" target="_blank">
-    <img src="https://cdn.simpleicons.org/telegram/lightgray" alt="Telegram" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=telegram&logoColor=B0B0B0" alt="Telegram"/>
   </a>
   <a href="mailto:nazar.ponomarenko.da@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/lightgray" alt="Gmail" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=gmail&logoColor=B0B0B0" alt="Gmail"/>
   </a>
   <a href="https://public.tableau.com/app/profile/nazar.ponomarenko/vizzes" target="_blank">
-    <img src="https://cdn.simpleicons.org/tableau/lightgray" alt="Tableau Public" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=tableau&logoColor=B0B0B0" alt="Tableau Public"/>
   </a>
 </p>
 ---
