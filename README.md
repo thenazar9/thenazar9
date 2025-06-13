@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nazar-ponomarenko/nazar-ponomarenko/main/da_image.jpg" alt="Nazar Ponomarenko - Data Analyst" width="100%">
+  <img src="https://github.com/thenazar9/thenazar9/blob/main/da_image.jpg?raw=true" alt="Nazar Ponomarenko - Data Analyst" width="100%">
 </p>
 
 <h1>Welcome to my Data World 📊</h1>
